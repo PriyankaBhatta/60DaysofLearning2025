@@ -31,7 +31,7 @@ I will update this section weekly with my learning summary.
 | 02 | HDFS Basics | Ran basic HDFS commands, understood roles of NameNode and DataNode |
 | 03 | Hadoop Architecture | Studied YARN, HDFS structure and node responsibilities |
 | 04 | Practicing HDFS | Created/uploaded/viewed files in HDFS, practiced `put`, `cat`, `ls` |
-| ... | ... | ... |
+| 05 | Practicing HDFS |  Created & viewed sample.txt with  HDFS cmds: put, ls, mkdir, get, cat, tail|
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
