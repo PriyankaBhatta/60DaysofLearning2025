@@ -33,6 +33,8 @@ I will update this section weekly with my learning summary.
 | 04 | Practicing HDFS | Created/uploaded/viewed files in HDFS, practiced `put`, `cat`, `ls` |
 | 05 | Practicing HDFS | Created & viewed sample.txt with  HDFS cmds: put, ls, mkdir, get, cat, tail|
 | 06 | Read an article | A Comparative Evaluation of Apache Hadoop and Apache Spark|
+| 07 | Read multiple article | On big Data Concepts and Analytics|
+| 08 | Watched HDFS tutorial in YT | To stregthen my knowledge in HDFS before umping into Mapreduce|
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
