@@ -35,6 +35,7 @@ I will update this section weekly with my learning summary.
 | 06 | Read an article | A Comparative Evaluation of Apache Hadoop and Apache Spark|
 | 07 | Read multiple article | On big Data Concepts and Analytics|
 | 08 | Watched HDFS tutorial in YT | To stregthen my knowledge in HDFS before umping into Mapreduce|
+| 09 | Learnt about MapReduce | Read about MapReduce from  youtube tutorials and also implemented it's various usecases in my vm terinal|
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
