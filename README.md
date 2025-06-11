@@ -37,6 +37,7 @@ I will update this section weekly with my learning summary.
 | 08 | Watched HDFS tutorial in YT | To stregthen my knowledge in HDFS before umping into Mapreduce|
 | 09 | Learnt about MapReduce | Read about MapReduce from  youtube tutorials and also implemented it's various usecases in my vm terinal|
 | 10 | Read about hive | Read about Hive, it's archiecture, how it works|
+| 11| Installed Hive | Installed Apache Hive on my VM today as I dive deeper into the Big Data ecosystem |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
