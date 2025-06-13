@@ -39,6 +39,7 @@ I will update this section weekly with my learning summary.
 | 10 | Read about hive | Read about Hive, it's archiecture, how it works|
 | 11 | Installed Hive | Installed Apache Hive on my VM today as I dive deeper into the Big Data ecosystem |
 | 12 | Namenode not working | Tried to fix namenode error issue, but couldn't solve it today |
+| 13 | Read article | Read article on Case Study of Hive using Hadoop |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
