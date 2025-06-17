@@ -43,6 +43,7 @@ I will update this section weekly with my learning summary.
 | 14 | Read SQL | Basic Terms and Table and Column Naming Rules |
 | 15 | Read about SQL keys |Read about foreign, unique and primary keys in detail and made notes in notepad|
 | 16 | Read about SQL check and default costraint | Learned about DEFAULT AND CHECK CONSTRAINT in sql and made notes in notepad |
+| 17 | Practiced SQL queries | Revised and used some sql functions i hadn't used in a while |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
