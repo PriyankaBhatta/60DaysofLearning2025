@@ -45,6 +45,7 @@ I will update this section weekly with my learning summary.
 | 16 | Read about SQL check and default costraint | Learned about DEFAULT AND CHECK CONSTRAINT in sql and made notes in notepad |
 | 17 | Practiced SQL queries | Revised and used some sql functions i hadn't used in a while |
 | 18 | Practiced sql queries | Practiced easy to medium SQL queries |
+| 19 | Read a research paper | Read a paper on expanding SQL learning beyond RDBMS to Big Data systems like MapReduce, NoSQL & NewSQL. Essential shift for modern data insights. |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
