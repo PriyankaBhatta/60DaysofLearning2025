@@ -48,6 +48,7 @@ I will update this section weekly with my learning summary.
 | 19 | Read a research paper | Read a paper on expanding SQL learning beyond RDBMS to Big Data systems like MapReduce, NoSQL & NewSQL. Essential shift for modern data insights. |
 | 20 | Read sql quizes | Practiced sql quizes trough learn sql app |
 | 21 | Read sql functions | Revised aggregate, string, numeric, date functions today |
+| 22 |Fixed HDFS issue |Spent the day fixing an HDFS issue caused by inconsistent NameNode/DataNode directories. Solved it by reformatting NameNode and clearing stale PID files |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
