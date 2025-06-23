@@ -49,6 +49,7 @@ I will update this section weekly with my learning summary.
 | 20 | Read sql quizes | Practiced sql quizes trough learn sql app |
 | 21 | Read sql functions | Revised aggregate, string, numeric, date functions today |
 | 22 |Fixed HDFS issue |Spent the day fixing an HDFS issue caused by inconsistent NameNode/DataNode directories. Solved it by reformatting NameNode and clearing stale PID files |
+| 23 | Practice queries in hive | Created a Hive database lspp23, a sales table, inserted rows, and wrote SQL queries to view sales, calculate revenue, analyze orders by region, and filter data by conditions like product type and quantity.|
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
