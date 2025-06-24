@@ -50,6 +50,7 @@ I will update this section weekly with my learning summary.
 | 21 | Read sql functions | Revised aggregate, string, numeric, date functions today |
 | 22 |Fixed HDFS issue |Spent the day fixing an HDFS issue caused by inconsistent NameNode/DataNode directories. Solved it by reformatting NameNode and clearing stale PID files |
 | 23 | Practice queries in hive | Created a Hive database lspp23, a sales table, inserted rows, and wrote SQL queries to view sales, calculate revenue, analyze orders by region, and filter data by conditions like product type and quantity.|
+| 24 | Installed spark and lerned queries |Installed Apache Spark 3.5.6 and ran my first RDD queries using sc.parallelize() and groupBy. Learned how Spark handles distributed data and transformations across nodes.|
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
