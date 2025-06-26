@@ -52,6 +52,7 @@ I will update this section weekly with my learning summary.
 | 23 | Practice queries in hive | Created a Hive database lspp23, a sales table, inserted rows, and wrote SQL queries to view sales, calculate revenue, analyze orders by region, and filter data by conditions like product type and quantity.|
 | 24 | Installed spark and lerned queries |Installed Apache Spark 3.5.6 and ran my first RDD queries using sc.parallelize() and groupBy. Learned how Spark handles distributed data and transformations across nodes.|
 | 25 | Practiced sql queries | Practiced medium hard SQL queries and revised my notes from previous days |
+| 26 | Learned about pysaprk | Learning in detail about PySpark from datacamp course 'Introduction to PySpark DataFrames |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
