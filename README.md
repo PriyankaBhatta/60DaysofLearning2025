@@ -53,6 +53,7 @@ I will update this section weekly with my learning summary.
 | 24 | Installed spark and lerned queries |Installed Apache Spark 3.5.6 and ran my first RDD queries using sc.parallelize() and groupBy. Learned how Spark handles distributed data and transformations across nodes.|
 | 25 | Practiced sql queries | Practiced medium hard SQL queries and revised my notes from previous days |
 | 26 | Learned about pysaprk | Learning in detail about PySpark from datacamp course 'Introduction to PySpark DataFrames |
+| 27 | Learned SQL Window fuctions| |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
