@@ -4,11 +4,11 @@ Welcome to my #60DaysOfLearning2025 challenge!
 This repository is a personal learning log where I document my daily progress as I explore and upskill in various areas of technology.
 
 ## 📅 Start Date:
-JUne 1, 2025
+June 1, 2025
 
 ## 🎯 Goal:
 To stay consistent with learning and build hands-on skills in areas like:
-- Big Data (Hadoop, HDFS, Hive, etc.)
+- Big Data (Hadoop, HDFS, Hive, PySpark etc.)
 - Data Engineering
 - Linux & Shell Scripting
 - SQL
