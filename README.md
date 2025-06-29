@@ -55,6 +55,7 @@ I will update this section weekly with my learning summary.
 | 26 | Learned about pysaprk | Learning in detail about PySpark from datacamp course 'Introduction to PySpark DataFrames |
 | 27 | Learned SQL Window fuctions|
 | 28 | Did some hard level SQL questions today, focusing on advanced CASE WHEN, subqueries, and grouping logic. Feeling more confident with daily practice. |
+| 29 | Studied Data Warehousing today: its need, components, types, characteristics, advantages, and disadvantages. Learned how it helps store huge data centrally for analysis and better decision-making. |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
