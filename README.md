@@ -57,6 +57,8 @@ I will update this section weekly with my learning summary.
 | 28 | Hard level SQL Queies |Did some hard level SQL questions today, focusing on advanced CASE WHEN, subqueries, and grouping logic. Feeling more confident with daily practice. |
 | 29 | Data Wareshouse |Studied Data Warehousing today: its need, components, types, characteristics, advantages, and disadvantages. Learned how it helps store huge data centrally for analysis and better decision-making. |
 | 30 | Hard level SQL queries| Practiced hard SQL today with CASE WHEN, MOD for even-odd, JOINs, GROUP BY, HAVING, LAG window functions, ROUND, and ORDER BY custom sorting. These are levelling up my SQL skills.|
+| 31 | Data Warehousing Concepts| Studied ETL, dimensional modelling, star & snowflake schemas, OLAP cubes, data marts, data integration, and governance to build strong fundamentals for data engineering.|
+
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
