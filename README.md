@@ -58,6 +58,7 @@ I will update this section weekly with my learning summary.
 | 29 | Data Wareshouse |Studied Data Warehousing today: its need, components, types, characteristics, advantages, and disadvantages. Learned how it helps store huge data centrally for analysis and better decision-making. |
 | 30 | Hard level SQL queries| Practiced hard SQL today with CASE WHEN, MOD for even-odd, JOINs, GROUP BY, HAVING, LAG window functions, ROUND, and ORDER BY custom sorting. These are levelling up my SQL skills.|
 | 31 | Data Warehousing Concepts| Studied ETL, dimensional modelling, star & snowflake schemas, OLAP cubes, data marts, data integration, and governance to build strong fundamentals for data engineering.|
+| 32 | Big Data Analytics | Downloaded Nepal daily climate dataset from Kaggle. Connected Spark to HDFS and YARN, explored dataset schema and columns like Temp_2m, MaxTemp_2m, MinTemp_2m, and WindSpeed_10m. Planned to upload to HDFS and perform analytics using Spark DataFrames tomorrow. |
 
 
 ## 🛠️ Tools Used
