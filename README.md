@@ -59,6 +59,7 @@ I will update this section weekly with my learning summary.
 | 30 | Hard level SQL queries| Practiced hard SQL today with CASE WHEN, MOD for even-odd, JOINs, GROUP BY, HAVING, LAG window functions, ROUND, and ORDER BY custom sorting. These are levelling up my SQL skills.|
 | 31 | Data Warehousing Concepts| Studied ETL, dimensional modelling, star & snowflake schemas, OLAP cubes, data marts, data integration, and governance to build strong fundamentals for data engineering.|
 | 32 | Big Data Analytics | Downloaded Nepal daily climate dataset from Kaggle. Connected Spark to HDFS and YARN, explored dataset schema and columns like Temp_2m, MaxTemp_2m, MinTemp_2m, and WindSpeed_10m. Planned to upload to HDFS and perform analytics using Spark DataFrames tomorrow. |
+| 33 | Big Data Project Setup | Set up PySpark environment for daily climate data analytics. Connected HDFS and YARN, created project directories in HDFS, uploaded the dataset, and practiced reading data with Spark for upcoming analysis. Faced pandas installation issues, will continue with pandas-based visualisation tomorrow. |
 
 
 ## 🛠️ Tools Used
