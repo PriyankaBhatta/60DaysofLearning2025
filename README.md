@@ -61,6 +61,8 @@ I will update this section weekly with my learning summary.
 | 32 | Big Data Analytics | Downloaded Nepal daily climate dataset from Kaggle. Connected Spark to HDFS and YARN, explored dataset schema and columns like Temp_2m, MaxTemp_2m, MinTemp_2m, and WindSpeed_10m. Planned to upload to HDFS and perform analytics using Spark DataFrames tomorrow. |
 | 33 | Big Data Project Setup | Set up PySpark environment for daily climate data analytics. Connected HDFS and YARN, created project directories in HDFS, uploaded the dataset, and practiced reading data with Spark for upcoming analysis. Faced pandas installation issues, will continue with pandas-based visualisation tomorrow. |
 | 34 | Pandas Basics & Dataset Exploration | Faced pandas installation issues in PySpark, so switched to Jupyter Notebook for visualization. Loaded Nepal climate dataset, renamed columns, and explored it using pandas functions for structure, info, and initial analysis. |
+| 35 | Visualised climate dataset using pandas + matplotlib + seaborn | Created histograms for temp and pressure, boxplots by district, and correlation heatmaps to analyse relationships between features. Strengthening my data analysis and EDA skills.|
+
 
 
 
