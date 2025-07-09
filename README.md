@@ -63,8 +63,9 @@ I will update this section weekly with my learning summary.
 | 34 | Pandas Basics & Dataset Exploration | Faced pandas installation issues in PySpark, so switched to Jupyter Notebook for visualization. Loaded Nepal climate dataset, renamed columns, and explored it using pandas functions for structure, info, and initial analysis. |
 | 35 | Visualised climate dataset using pandas + matplotlib + seaborn | Created histograms for temp and pressure, boxplots by district, and correlation heatmaps to analyse relationships between features. Strengthening my data analysis and EDA skills.|
 | 36 | Climate Data Visualization | Performed advanced visualizations on Nepal climate data today. Converted date to datetime, extracted year, plotted average temperature trends over years, analysed district-wise temperatures post-1990, and explored wind speed distribution. Strengthening my data analysis and visualization skills with pandas, matplotlib, and seaborn.|
-| 37 | Nepal Climate Data Analysis | Performed max temperature distribution analysis and calculated average humidity per district, identifying top and bottom humid regions for insights.| 
-| 38 | Nepal Climate Data Analysis | Implemented linear regression to predict precipitation, evaluated model (MSE: 25.6, R²: 0.29), visualized actual vs predicted values, and analyzed feature coefficients for insights. |
+| 37 | Nepal Climate Data Analysis Project | Performed max temperature distribution analysis and calculated average humidity per district, identifying top and bottom humid regions for insights.| 
+| 38 | Nepal Climate Data Analysis Project | Implemented linear regression to predict precipitation, evaluated model (MSE: 25.6, R²: 0.29), visualized actual vs predicted values, and analyzed feature coefficients for insights. |
+| 39 | Superstore Sales Analysis Project | Completed EDA, box plots, and styled tables on Superstore Sales dataset (2nd project) using pandas and Jupyter Notebook for insightful data visualization and analysis. |
 
 
 
