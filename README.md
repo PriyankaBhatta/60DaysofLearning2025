@@ -67,6 +67,7 @@ I will update this section weekly with my learning summary.
 | 38 | Nepal Climate Data Analysis Project | Implemented linear regression to predict precipitation, evaluated model (MSE: 25.6, R²: 0.29), visualized actual vs predicted values, and analyzed feature coefficients for insights. |
 | 39 | Superstore Sales Data Project Analysis | Completed EDA, box plots, and styled tables on Superstore Sales dataset (2nd project) using pandas and Jupyter Notebook for insightful data visualization and analysis. |
 | 40 | Superstore Sales Data Project Visualizations | Created 5 visualizations (Monthly Trend, Category Distribution, Region-Segment Sales, Day vs. Sales, Heatmap) (2nd project) using pandas and seaborn in Jupyter Notebook, analyzing sales patterns and trends. |
+| 41 | Superstore Sales Data Project Visualizations | Added a bar chart of average sales by ship mode and a correlation heatmap (2nd project) using pandas and seaborn in Jupyter Notebook, exploring sales patterns and relationships. |
 
 
 ## 🛠️ Tools Used
