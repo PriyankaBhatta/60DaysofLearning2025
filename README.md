@@ -69,6 +69,7 @@ I will update this section weekly with my learning summary.
 | 40 | Superstore Sales Data Project Visualizations | Created 5 visualizations (Monthly Trend, Category Distribution, Region-Segment Sales, Day vs. Sales, Heatmap) (2nd project) using pandas and seaborn in Jupyter Notebook, analyzing sales patterns and trends. |
 | 41 | Superstore Sales Data Project Visualizations | Added a bar chart of average sales by ship mode and a correlation heatmap (2nd project) using pandas and seaborn in Jupyter Notebook, exploring sales patterns and relationships. |
 | 42 | Superstore Sales Data Project Visualizations | Added a horizontal bar chart of sales by sub-category, sales distribution by state, and a line plot of sales over time by category (2nd project) using pandas and matplotlib in Jupyter Notebook. |
+| 43 | Superstore Sales Data Project Prediction using Linear Regression | Enhanced Superstore Sales prediction model using Order Month, Order Year, and encoded Category, Sub-Category, Region, Ship Mode, Segment. Analyzed scatter plot visualization to assess model fit.|
 
 
 ## 🛠️ Tools Used
