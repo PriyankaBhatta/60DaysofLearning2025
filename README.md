@@ -72,6 +72,7 @@ I will update this section weekly with my learning summary.
 | 43 | Superstore Sales Data Project Prediction using Linear Regression | Enhanced Superstore Sales prediction model using Order Month, Order Year, and encoded Category, Sub-Category, Region, Ship Mode, Segment. Analyzed scatter plot visualization to assess model fit.|
 | 44 | Superstore Sales Data Project Prediction using Linear Regression and XGBoost | Enhanced sales prediction model with Linear Regression (MSE: 1873.5) and XGBoost (MSE: 14918.1) using new features like discount, competitor_price, and price_elasticity. Fixed randomness for stable results, visualized with a y=mx+c line, and identified two outliers. |
 | 45 | Studied 'XGBoost vs Linear Regression blog |Studied https://medium.com/@heyamit10/xgboost-vs-linear-regression-a-practical-guide-aa09a68af12b blog to deepen my understanding. . Learning how complexity vs. simplicity impacts predictions!|
+| 46 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Started third project with Kaggle's MID dataset. Spent significant time selecting dataset, cleaned Therapeutic_class_counts.xlsx by dropping empty columns (Unnamed: 3, Unnamed: 4). Plan to explore MID dataset and perform deeper analysis from tomorrow. |
 
 
 ## 🛠️ Tools Used
