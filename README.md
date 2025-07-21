@@ -77,6 +77,7 @@ I will update this section weekly with my learning summary.
 | 48 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Created SideEffect WordCloud to identify common side effects, SideEffect text length histogram to analyze description complexity, and top 10 Chemical_Class bar plot to explore chemical compositions. Skipped ProductUses WordCloud due to messy text (e.g., null, HTML artifacts) and Habit_Forming pie chart (binary Yes/No). |
 | 49 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a scatter plot for Size vs Ratio from the counts dataset to analyze relationships and a bar plot for top 10 Action_Class values (excluding Not Specified) to explore drug mechanisms. |
 | 50 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a line plot for cumulative Therapeutic_Class sizes to track medicine accumulation and a violin plot for SideEffect text lengths to analyze distribution density. |
+| 51 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a boxen plot for HowToUse text lengths to analyze distribution, finalizing all visualizations and analysis. Transitioning to model building starting tomorrow.|
 
 
 ## 🛠️ Tools Used
