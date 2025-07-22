@@ -78,7 +78,7 @@ I will update this section weekly with my learning summary.
 | 49 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a scatter plot for Size vs Ratio from the counts dataset to analyze relationships and a bar plot for top 10 Action_Class values (excluding Not Specified) to explore drug mechanisms. |
 | 50 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a line plot for cumulative Therapeutic_Class sizes to track medicine accumulation and a violin plot for SideEffect text lengths to analyze distribution density. |
 | 51 | Medicines Information Dataset (MID) Exploration in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Completed a boxen plot for HowToUse text lengths to analyze distribution, finalizing all visualizations and analysis. Transitioning to model building starting tomorrow.|
-
+| 52 | Medicines Information Dataset (MID) Prediction in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Conducted model performance analysis for Logistic Regression, achieving ~98.2% accuracy. Noted strong performance on major classes (e.g., ANTI INFECTIVES, CARDIAC) and weaker results on minor classes (e.g., ANTI NEOPLASTIC, OTHERS) due to limited data. Misclassifications occurred between similar classes (e.g., GASTRO INTESTINA vs GASTRO INTESTINAL) |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
