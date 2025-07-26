@@ -81,11 +81,14 @@ I will update this section weekly with my learning summary.
 | 52 | Medicines Information Dataset (MID) Prediction in Jupyter (Third Project) | Continued third project with Kaggle's MID dataset. Conducted model performance analysis for Logistic Regression, achieving ~98.2% accuracy. Noted strong performance on major classes (e.g., ANTI INFECTIVES, CARDIAC) and weaker results on minor classes (e.g., ANTI NEOPLASTIC, OTHERS) due to limited data. Misclassifications occurred between similar classes (e.g., GASTRO INTESTINA vs GASTRO INTESTINAL) |
 | 53 | Medicines Information Dataset (MID) | Created GitHub repository for the MID Therapeutic Class Prediction project. Uploaded images to Loading and analysis of data/, Visualization Images/, and Multi-Class Text Classification using Logistic Regression/ folders, documenting data exploration, charts (e.g., confusion matrix), and model training steps for the Logistic Regression model (~98.2% accuracy).|
 | 54 | Created a GitHub repo for Sales Prediction Analysis with Linear Regression and XGBoost. |Created a GitHub repo for Sales Prediction Analysis with Linear Regression and XGBoost. Uploaded notebook and images of data analysis, visualizations, and model training in the repository. |
+| 55 | Updated Github repository for Nepal Climate Analysis Project | This GitHub repo is for Nepal Climate Data Analytics Project which was my first project for this challenge. I worked with hdfs, PySpark and jupyter notebook for further analysis , visualization and modeling. | 
+| 56 | SQL Practice | Solved few basic SQL questions in hacker rank, learned some theory and did some quizzes in SQLZoo. |
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
 - Hadoop 3.3.6
 - Git & GitHub
+- Jupyter Notebook
 - YouTube (for video references)
 
 ## 🌟 Connect With Me
