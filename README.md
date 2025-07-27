@@ -83,6 +83,7 @@ I will update this section weekly with my learning summary.
 | 54 | Created a GitHub repo for Sales Prediction Analysis with Linear Regression and XGBoost. |Created a GitHub repo for Sales Prediction Analysis with Linear Regression and XGBoost. Uploaded notebook and images of data analysis, visualizations, and model training in the repository. |
 | 55 | Updated Github repository for Nepal Climate Analysis Project | This GitHub repo is for Nepal Climate Data Analytics Project which was my first project for this challenge. I worked with hdfs, PySpark and jupyter notebook for further analysis , visualization and modeling. | 
 | 56 | SQL Practice | Solved few basic SQL questions in hacker rank, learned some theory and did some quizzes in SQLZoo. |
+| 57 | Learning SQL theory | Learned about keys, normalization and denormalization and practiced some quizzes | 
 
 ## 🛠️ Tools Used
 - Ubuntu 24.04 (VMware)
