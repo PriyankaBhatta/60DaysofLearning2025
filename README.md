@@ -86,6 +86,7 @@ I will update this section weekly with my learning summary.
 | 57 | Learning SQL theory | Learned about keys, normalization and denormalization and practiced some quizzes | 
 | 58 | SQL Practice with Northwind Database | Completed all easy, medium, and hard-level SQL questions using the Northwind dataset from sql-practice.com |
 | 59 | Created a new GitHub repo — Data-Engineer-Interview-Preparation | To document everything I’m learning and practicing in SQL, ETL, and data modeling. |
+| 60 | SQL Practice | Did medium, and hard-level SQL questions  from sql-practice.com |
 
 
 ## 🛠️ Tools Used
